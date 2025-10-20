@@ -1,0 +1,14 @@
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\bin\Debug\net8.0\public static class IntExtensions.exe
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\bin\Debug\net8.0\public static class IntExtensions.deps.json
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\bin\Debug\net8.0\public static class IntExtensions.runtimeconfig.json
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\bin\Debug\net8.0\public static class IntExtensions.dll
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\bin\Debug\net8.0\public static class IntExtensions.pdb
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.AssemblyInfoInputs.cache
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.AssemblyInfo.cs
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.csproj.CoreCompileInputs.cache
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.dll
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\refint\public static class IntExtensions.dll
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.pdb
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\public static class IntExtensions.genruntimeconfig.cache
+C:\Users\ismayil\public static class IntExtensions\public static class IntExtensions\obj\Debug\net8.0\ref\public static class IntExtensions.dll
